@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/mahendra/IdeaProjects/untitled48/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.0"
+    buildFolder="/home/mahendra/IdeaProjects/untitled48/build/app"
+    bootClassPath="/home/mahendra/Android/Sdk/platforms/android-33/android.jar:/home/mahendra/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
